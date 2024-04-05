@@ -1,0 +1,161 @@
+html {
+	background: linear-gradient(to bottom, #d7bd90, #ae781a);
+  }
+
+.txt-rouge {
+	color: #6D071A;
+}
+
+.center {
+	text-align: center;
+}
+
+/* CSS pour les balises span */
+.left {
+    text-align: left;
+    display: inline-block;
+    width: 45%;
+}
+
+.right {
+	text-align: right;
+    display: inline-block;
+    width: 45%;
+}
+/*****************************/
+
+a {
+	color:#1b1b1b;
+	text-decoration: none;
+	text-align: center;
+}
+
+.texte {
+	font-size: 20px;
+}
+
+p {
+	display: block;
+}
+
+.shadow {
+	box-shadow: 0 0 20px rgba(15, 15, 15, 0.1); /* Ombre autour du conteneur */
+}
+
+h3{
+	width: 20%;
+	text-align: center;
+	display: inline-block;
+}
+
+.border-img3 {
+	border: 2px solid rgb(41, 41, 41);
+}
+
+.txt-img-chat3 {
+	text-align: center;
+	display: block;
+}
+
+.div-para {
+	margin-bottom: 13.5%;
+}
+
+.button {
+	width: 75px; /* Largeur du bouton */
+    height: 35px; /* Hauteur du bouton */
+    font-size: 20px; /* Taille de la police */
+    padding: 2px 2px; /* Espace à l'intérieur du bouton (haut/bas gauche/droite) */
+	border-radius: 5%;
+	border-color: rgb(36, 36, 36);
+	background-color: rgb(205, 192, 167);
+}
+
+.margin1 {
+	margin-top: 50%;
+}
+
+.margin2 {
+	margin-top: 340%;
+}
+
+.margin3 {
+	margin-top: 370%;
+}
+
+.mini-img {
+	border: 3px solid rgb(41, 41, 41);
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.div-mini {
+	width: 30%;
+	text-align: center;
+}
+
+.nom {
+	width: 20%;
+	text-align: center;
+}
+
+.img-chat3 {
+	float: right;
+	width: 50%;
+	text-align: center;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+.presentation {
+	background-color: azure;
+}
+
+.no_underline {
+	margin-left: 620px;
+	text-decoration: none;
+}
+
+
+.decalage {
+	margin-left: 93px;
+}
+
+.image {
+	margin: 10px;
+	display: inline-block;
+}
+
+.img_2_decalage {
+	margin-left: 308px;
+}
+
+.my_image {
+	border-radius: 50%;
+	text-align: center;
+	display: block;
+	margin: auto;
+	border: 5px solid rgb(41, 41, 41);
+}
+
+.container-myself {
+	width: 30.5%;
+}
+
+.me_display {
+	float: right;
+	width: 68.5%;
+	text-align: center;
+}
+
+.container {
+	display: flex;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.titre {
+	margin-left: 9.5%;
+}
+
